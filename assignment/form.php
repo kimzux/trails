@@ -56,7 +56,7 @@ mysqli_close($db);
     <label for="psw"><b>Password</b></label>
     <input type="password" placeholder="Enter Password" name="psw1" required>
 
-    <label for="psw-repeat"><b>Repeat Password</b></label>
+    <label for="psw-repeat"><b>Retype Password</b></label>
     <input type="password" placeholder="Repeat Password" name="psw2" required>
     <hr>
 
